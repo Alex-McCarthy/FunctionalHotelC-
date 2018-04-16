@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1485227257 source:d:\cs-174\c++\174final\main.cpp
+	<iostream>
+	<string>
+	"string.h"
+	"Hotel.h"
+	"ReadHotel.h"
+	"ReadAct.h"
+	<vector>
+
+1485310064 source:d:\cs-174\c++\174final\src\readact.cpp
+	<iostream>
+	"ReadAct.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+
+1484353782 d:\cs-174\c++\174final\include\readact.h
+	<iostream>
+	<vector>
+
+1485310064 source:d:\cs-174\c++\174final\src\readhotel.cpp
+	<iostream>
+	"ReadHotel.h"
+	<string.h>
+	<fstream>
+	<sstream>
+	<vector>
+
+1484279144 d:\cs-174\c++\174final\include\readhotel.h
+	<iostream>
+	<vector>
+
+1485310064 source:d:\cs-174\c++\174final\src\room.cpp
+	<iostream>
+	"Room.h"
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+
+1485309266 d:\cs-174\c++\174final\include\room.h
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+	"Charge.h"
+
+1485310064 source:d:\cs-174\c++\174final\src\hotel.cpp
+	<iostream>
+	"Hotel.h"
+	<string>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<locale>
+	<sstream>
+	<string>
+	<map>
+
+1484530969 d:\cs-174\c++\174final\include\hotel.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+	<map>
+	"Room.h"
+	<utility>
+	"Charge.h"
+
+1484425003 source:d:\cs-174\c++\174final\src\hotelfunctions.cpp
+	"HotelFunctions.h"
+
+1484432438 d:\cs-174\c++\174final\include\hotelfunctions.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+
+1485294163 d:\cs-174\c++\174final\include\charge.h
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+
+1485310064 source:d:\cs-174\c++\174final\src\charge.cpp
+	"Charge.h"
+
+1484609703 source:d:\cs-174\c++\174final\src\writebill.cpp
+	"WriteBill.h"
+
+1484609703 d:\cs-174\c++\174final\include\writebill.h
+
